@@ -38,3 +38,17 @@ Score tracker - Keeps track of each question that is answered throughtout the wh
 
 Exit Button - Allows the user to leave the quiz once they get their final score.
 
+
+
+## How does it work
+.The user will be welcome on the cover page which will have brief desricption on what the app is about.Once the user is ready he or she can click on the start button to begin the quiz
+
+.Once the user clicks start the app will then take you to the second page to where all the questions are displayed with a true or false option.
+
+.When the user has completed all the questions their  score will be shown on the last screen aswell as a feedback for the user.
+
+.On the final screen the user also has the option to review their quiz to see what they got right and wrong.
+
+.Once the user has completed the questions they can click on the exit button to close the app.
+
+
