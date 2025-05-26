@@ -5,29 +5,29 @@
 The purpose of this app is to help and strengthen the user knowledge by testing them on true or false questions.This app will keep track of the user answers by lettiing the user know if they got the question correct or incorrect.At the end of quiz it will display the user final score and will have a feedback to tell the user if they did good or bad.  
 
 ## How does it work
-.The user will be welcome on the cover page which will have brief desricption on what the app is about.Once the user is ready he or she can click on the start button to begin the quiz
+- The user will be welcome on the cover page which will have brief desricption on what the app is about.Once the user is ready he or she can click on the start button to begin the quiz
 
-.Once the user clicks start the app will then take you to the second page to where all the questions are displayed with a true or false option.
+- Once the user clicks start the app will then take you to the second page to where all the questions are displayed with a true or false option.
 
-.When the user has completed all the questions their  score will be shown on the last screen aswell as a feedback for the user.
+- When the user has completed all the questions their  score will be shown on the last screen aswell as a feedback for the user.
 
-.On the final screen the user also has the option to review their quiz to see what they got right and wrong.
+- On the final screen the user also has the option to review their quiz to see what they got right and wrong.
 
-.Once the user has completed the questions they can click on the exit button to close the app.
+- Once the user has completed the questions they can click on the exit button to close the app.
 
 ## Intstructions 
-.Go into the Github link once you their then download 
+- Go into the Github link once you their then download 
  the code  
 
- .Tranfer the code into a folder on to your home page
+ - Tranfer the code into a folder on to your home page
 
- .Once you've done that open Andriod Studios and locate the file tab in the top left
+ - Once you've done that open Andriod Studios and locate the file tab in the top left
 
- .Select the open project option
+ - Select the open project option
 
- .Look to where the you extracted the files
+ - Look to where the you extracted the files
 
- . When you have found the folder Select on it and click open
+ - When you have found the folder Select on it and click open
 
  .The files will then open Andriod Studios
 
