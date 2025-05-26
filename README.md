@@ -37,3 +37,5 @@ Immediate Feedback - Once the user has chosen their answer it will instantly tel
 Score tracker - Keeps track of each question that is answered throughtout the whole quiz and shows the final score once the user has finished the quiz.
 
 Exit Button - Allows the user to leave the quiz once they get their final score.
+
+ST10468512 Aneez Begg
