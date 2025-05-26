@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/quiz_background"
+    tools:context=".flashcuecards">
+
+    <TextView
+        android:id="@+id/questiontext"
+        android:layout_width="355dp"
+        android:layout_height="180dp"
+        android:fontFamily="sans-serif-black"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.103" />
+
+    <Button
+        android:id="@+id/trueid"
+        android:layout_width="144dp"
+        android:layout_height="76dp"
+        android:text="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.057"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/questiontext"
+        app:layout_constraintVertical_bias="0.302" />
+
+    <Button
+        android:id="@+id/falseid"
+        android:layout_width="152dp"
+        android:layout_height="76dp"
+        android:text="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.63"
+        app:layout_constraintStart_toEndOf="@+id/trueid"
+        app:layout_constraintTop_toBottomOf="@+id/questiontext"
+        app:layout_constraintVertical_bias="0.301" />
+
+    <Button
+        android:id="@+id/nextbtn"
+        android:layout_width="168dp"
+        android:layout_height="63dp"
+        android:text="Next"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/trueid" />
+</androidx.constraintlayout.widget.ConstraintLayout>
