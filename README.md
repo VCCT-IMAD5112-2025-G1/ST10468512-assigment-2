@@ -38,4 +38,3 @@ Score tracker - Keeps track of each question that is answered throughtout the wh
 
 Exit Button - Allows the user to leave the quiz once they get their final score.
 
-ST10468512 Aneez Begg
