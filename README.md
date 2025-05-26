@@ -40,5 +40,12 @@ Score tracker - Keeps track of each question that is answered throughtout the wh
 
 Exit Button - Allows the user to leave the quiz once they get their final score.
 
+## Design features
+ Simple and easy to us. The interface was degsinged to be clear and family friendly.The button are explicitly labeled
+
+ Question show. One Question is shown at a time so that the user can focus on that specifc question.Everytime question is strightforward and easy to understand
+
+ Score Display. At the end of the quiz the app lets the user see their finally Score.   
+
 
 
