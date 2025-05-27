@@ -6,7 +6,7 @@ GitHub link: https://github.com/VCCT-IMAD5112-2025-G1/ST10468512-assigment-2
 Youtube link: https://youtu.be/bQy7gLGCJA0
 
 ## Purpose
-The purpose of this app is to help and strengthen the user knowledge by testing them on true or false questions.This app will keep track of the user answers by lettiing the user know if they got the question correct or incorrect.At the end of quiz it will display the user final score and will have a feedback to tell the user if they did good or bad.  
+The purpose of this app is to help strengthen the users knowledge by testing them on true or false questions.This app will keep track of the users answers by lettiing the users know if they got the questions correct or incorrect. At the end of quiz it will display the users final score and will provide feedback with regards to the users performance.   
 
 ## How does it work
 - The user will be welcome on the cover page which will have brief desricption on what the app is about.Once the user is ready he or she can click on the start button to begin the quiz
