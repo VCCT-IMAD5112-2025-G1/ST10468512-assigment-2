@@ -1,7 +1,7 @@
 # ST10468512 Aneez Begg
 
 ## IMAD Assignment 2 Flash Card Quiz
-GitHub link:
+GitHub link: https://github.com/VCCT-IMAD5112-2025-G1/ST10468512-assigment-2 
 
 Youtube link: 
 
