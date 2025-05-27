@@ -47,5 +47,31 @@ Exit Button - Allows the user to leave the quiz once they get their final score.
 
  Score Display. At the end of the quiz the app lets the user see their finally Score.   
 
+ ## Screenshots 
+ Home Screen/first page 
+ ![screen 1](https://github.com/user-attachments/assets/2ead9df3-adad-45a7-8a3e-18fcb2823759)
+ ![mainActivity page](https://github.com/user-attachments/assets/8c725ef0-122c-45d7-a5d3-9686a10216e3)
+![Screenshot 2](https://github.com/user-attachments/assets/24d8f059-e0bd-41ea-9612-da669c98be2b)
+![flashcuecards page](https://github.com/user-attachments/assets/9272e101-781c-4cad-bd32-fdcf59d202e9)
+![flashcuecards (2)](https://github.com/user-attachments/assets/62bb0816-be19-4a75-809b-f017a776cef9)
+![flashcuecards (3)](https://github.com/user-attachments/assets/118bbf19-c931-4532-b863-f3854a23818e)
+![flashcuecards (4)](https://github.com/user-attachments/assets/7c1138f1-71f1-4b74-93b8-badc08bae7ca)
+![screen 3](https://github.com/user-attachments/assets/1645e6d9-ac75-43c5-9005-d33f0f26f835)
+![screen 3 (2)](https://github.com/user-attachments/assets/978c7d20-85d6-48fe-b30e-aca146310041)
+![Scoresheet page](https://github.com/user-attachments/assets/09e15158-3c6f-4316-8162-46bad5c970a2)
+![Scoresheet (2)](https://github.com/user-attachments/assets/c24ad829-19ac-42f7-bc26-c079e518cdbe)
+![Scoresheet (3)](https://github.com/user-attachments/assets/f7430881-0623-4afe-ba4e-a937fd634e30)
+
+
+
+
+
+
+
+
+
+
+ 
+
 
 
