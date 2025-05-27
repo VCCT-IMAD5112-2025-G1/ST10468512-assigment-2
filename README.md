@@ -66,6 +66,10 @@ Exit Button - Allows the user to leave the quiz once they get their final score.
 ![Scoresheet (2)](https://github.com/user-attachments/assets/c24ad829-19ac-42f7-bc26-c079e518cdbe)
 ![Scoresheet (3)](https://github.com/user-attachments/assets/f7430881-0623-4afe-ba4e-a937fd634e30)
 
+## References
+JetBrains,2025.Kotlin documentation.[online]Availabe at:https://kotlinlang.org/docs/home.html[Accessed 30 April 2025].
+Medium,2022 How to create a flashcard app in Kotlin.[online]Availabe at:https://medium.com/tag/kotlin[Search:"flashcard app"] [Accessed 18 May 2025].
+
 
 
 
